@@ -1,4 +1,5 @@
 # noshow_appointments
+### By: Ige Amos Fadele
 
 ## Conclusions
 
@@ -24,5 +25,6 @@
 - <a href="https://www.matplotlib.org/"> matplotlib </a>
 - <a href="https://www.seaborn.pydata.org/"> seaborn </a>
 
+
 ### Author: Ige Amos Fadele
-LinkedIn: <a href='linkedin.com/in/MrfiaOfficial'> linkedin.com/in/MrfiaOfficial </a>
+#### LinkedIn: <a href='https://linkedin.com/in/MrfiaOfficial'> linkedin.com/in/MrfiaOfficial </a>
